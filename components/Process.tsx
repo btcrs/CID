@@ -14,13 +14,8 @@ export default function Process() {
     },
     {
       number: "03",
-      title: "Detailed Design",
-      description: "We finalize materials, finishes, and furniture selections, providing a complete roadmap for the project."
-    },
-    {
-      number: "04",
-      title: "Implementation",
-      description: "From procurement to final styling, we manage every detail to ensure the vision is executed flawlessly."
+      title: "Design & Implementation",
+      description: "We finalize details and manage the project from procurement to final styling, ensuring the vision is executed flawlessly."
     }
   ];
 

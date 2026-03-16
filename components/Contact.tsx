@@ -8,9 +8,9 @@ export default function Contact() {
       <div className={styles.container}>
         <div className={styles.info}>
           <h2 className={styles.sectionTitle}>Get in Touch</h2>
-          <p className={styles.description}>Let's discuss your next project and bring your vision to life.</p>
+          <p className={styles.description}>Let&apos;s discuss your next project and bring your vision to life.</p>
           <div className={styles.details}>
-            <p>hello@carothers.com</p>
+            <p>hello@btcrs.co</p>
             <p>304 N front st</p>
             <p>Wilmington, NC 28401</p>
           </div>
