@@ -10,7 +10,7 @@ export default function Contact() {
           <h2 className={styles.sectionTitle}>Get in Touch</h2>
           <p className={styles.description}>Let&apos;s discuss your next project and bring your vision to life.</p>
           <div className={styles.details}>
-            <p>hello@btcrs.co</p>
+            <p>hello@carothers.cc</p>
             <p>304 N front st</p>
             <p>Wilmington, NC 28401</p>
           </div>
